@@ -1,0 +1,10 @@
+{
+	"replace":false,
+	"values":
+	[
+		"minecraft:barrier",
+		"minecraft:bedrock",
+		"minecraft:crying_obsidian",
+		"minecraft:obsidian"
+	]
+}

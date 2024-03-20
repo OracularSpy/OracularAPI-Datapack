@@ -1,6 +1,7 @@
 {
-  "replace": false,
-  "values": [
-    "minecraft:shield"
-  ]
+	"replace":false,
+	"values":
+	[
+		"minecraft:shield"
+	]
 }
